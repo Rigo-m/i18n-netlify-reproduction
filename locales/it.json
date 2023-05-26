@@ -1,6 +1,6 @@
 {
   "welcome": "Welcome to nucleus, happy coding.",
-  "challenges": "Main industry<br class=\"hidden lg:block\" /> challenges",
+  "challenges_translation_key": "Main industry<br class=\"hidden lg:block\" /> challenges",
   "battery_for": "Battery for<br class=\"block lg:hidden\" /> {title}",
   "back_to": "Back to products<br> for {category}"
 }
