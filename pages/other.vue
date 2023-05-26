@@ -1,6 +1,6 @@
 <template>
   <div>
     <span v-html="$t('challenges')" />
-    <NuxtLink href="/other">Link to other</NuxtLink>
+    <NuxtLink href="/">Link to index</NuxtLink>
   </div>
 </template>

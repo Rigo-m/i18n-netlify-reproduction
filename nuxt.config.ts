@@ -5,7 +5,7 @@ export default defineNuxtConfig({
     precompile: {
       strictMessage: false,
     },
-    strategy: "prefix",
+    strategy: "prefix_and_default",
     defaultLocale: "it",
     locales: ["it", "en"],
     vueI18n: "./i18n.config.ts",
